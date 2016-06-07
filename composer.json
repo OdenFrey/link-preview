@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "4.2.*"
+        "illuminate/support": "4.2.*",
         "guzzlehttp/guzzle": "^6.1",
         "symfony/dom-crawler": "~2.3",
         "symfony/css-selector": "~2.3"
